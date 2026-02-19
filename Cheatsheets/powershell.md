@@ -4,7 +4,7 @@ PowerShell Logo goes here
 
 About PowerShell
 
-**PowerShell** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, **PowerShell** is both a ***command-line tool*** and ***a scripting environment***, making it a versatile tool for programmers and system administrators.
+**[PowerShell](https://docs.microsoft.com/en-us/powershell/)** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview), **PowerShell** is both a ***command-line tool*** and ***a scripting environment***, making it a versatile tool for programmers and system administrators.
 
  "PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." 
  _source:( from the [.interview](https://evrone.com/blog/jeffrey-snover-interview) with Jeffrey Snover, PowerShell Inventor)_
@@ -73,13 +73,15 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
 
 * What it is: A built-in editor for Windows PowerShell (versions 1.0 to 5.1).
 * Features:
-1. Syntax highlighting.
-2.  Debugging tools (breakpoints, step-through execution).
-3.  Integrated console for testing scripts.
-4.  Multi-tab interface for working with multiple scripts.
-5.  Best for: Beginners and users working on older versions of    PowerShell.
+    -  Syntax highlighting.
+    -  Debugging tools (breakpoints, step-through execution).
+    -  Integrated console for testing scripts.
+    -  Multi-tab interface for working with multiple scripts.
+    -  Best for: Beginners and users working on older versions of    PowerShell.
 
 ISE Image goes here
+
+![alt text](ISE_panes.png)
 
 #### Visual Studio Code (VS Code)
 
@@ -93,6 +95,8 @@ Cross-platform (Windows, macOS, Linux).
 Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
 VSCode Image goes here
+
+![alt text](vs_code.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
