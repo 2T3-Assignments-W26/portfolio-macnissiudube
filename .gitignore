@@ -10,7 +10,7 @@
 
 secrets.txt 
 
- 
+ *.txt
 
 # To ignore all files in a folder, folderName/ 
 
