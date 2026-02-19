@@ -5,6 +5,8 @@
 # Exmple to ignore exe files 
 
 *.exe 
+
+
 *.txt
 # To ignore a specific file, provide its name 
 
