@@ -5,12 +5,12 @@
 # Exmple to ignore exe files 
 
 *.exe 
-
+*.txt
 # To ignore a specific file, provide its name 
 
 secrets.txt 
 
- *.txt
+ 
 
 # To ignore all files in a folder, folderName/ 
 
