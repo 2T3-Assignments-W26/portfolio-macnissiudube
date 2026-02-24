@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [My Resume](Macnissi_Udube_2479263_20260223085320.md)
+  - [My Projects](myProjects.md)
